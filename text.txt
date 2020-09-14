@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 I am Rammiya
 I am Vinothini
+=======
+I am Rammiya Narayanasamy
+Next line
+>>>>>>> 4c9bf70bee47adea156749a857bc20c1da589180
