@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 I am Rammiya
-I am Vinothini
-=======
+I am Charles
+I am Arshad
 I am Rammiya Narayanasamy
-Next line
->>>>>>> 4c9bf70bee47adea156749a857bc20c1da589180
-=======
-I am Rammiya
+I am Athavan
 I am Athavan
 I am Arshad
 I am Rammiya Narayanasamy
@@ -17,6 +12,5 @@ I am Arshad
 I am Rammiya Narayanasamy
 I am Johnvesly 
 I am Lathusan T
-
->>>>>>> f89920f57b2448c55000dc162cd93a5deee9ab7c
 I am Vinothini
+i am manoj
