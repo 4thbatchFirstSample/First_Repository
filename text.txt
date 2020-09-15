@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am Rammiya
 I am Paranitharan
 =======
 I am Athavan
->>>>>>> a54c40337dbeff33cf4572a08360638ff170b835
+I am Rammiya
+I am Thanush
+I am Arshad
+I am Rammiya Narayanasamy
+I am Johnvesly 
+i am Parani
