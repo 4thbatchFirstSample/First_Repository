@@ -1,59 +1,32 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> b959524634579170ebd146337bf31eae9fc75bcf
-
 I am Rammiya
 I am Charles
 I am Arshad
 I am Rammiya Narayanasamy
 I am Athavan
 I am Athavan
-
-
 i am Rammiya
-
 I am Johnvesly
 i am Manoj
-
 I am Arshad
 I am Rammiya Narayanasamy
 I am Athavan
 I am Thanush
 I am Arshad
 I am Rammiya Narayanasamy
-
 I am Johnvesly
 i am Manoj
 Rifnas
-
 I am Johnvesly 
-
-
 I am Rammiya Narayanasamy
 I am Johnvesly 
 I am Lathusan T
 i am manoj
-
 I am Rubika
-
 i am sajanthan
 I am Lathusan
-
 I am Sarath
-<<<<<<< HEAD
-
 I am Danush
 I am Rubika
-
-=======
->>>>>>> c8aed207614f46172c4df0e5fe7be87d9b52adb2
->>>>>>> 8d1cbd0b0d918a8d7d7fc29439b568a2ed231d59
 I am Danush
->>>>>>> dd9fe0d097060e06838812d689f214f8bd8df4b4
 I am Parani
->>>>>>> b959524634579170ebd146337bf31eae9fc75bcf
+
