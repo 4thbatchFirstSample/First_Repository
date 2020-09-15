@@ -1,54 +1,43 @@
+
 I am Rammiya
 I am Charles
 I am Arshad
 I am Rammiya Narayanasamy
 I am Athavan
 I am Athavan
-<<<<<<< HEAD
-=======
-=======
+
+
 i am Rammiya
-<<<<<<< HEAD
-=======
+
 I am Johnvesly
 i am Manoj
->>>>>>> 2e141fb8039482163195b7def52d57208113a73e
->>>>>>> 1ffffd618928bbdbca496f3fe8d7a20efc1e4153
->>>>>>> f0aae471dd80f8a357067fbdef067b58f752fa85
+
 I am Arshad
 I am Rammiya Narayanasamy
 I am Athavan
 I am Thanush
 I am Arshad
 I am Rammiya Narayanasamy
-<<<<<<< HEAD
+
 I am Johnvesly
 i am Manoj
 Rifnas
-=======
+
 I am Johnvesly 
-=======
-<<<<<<< HEAD
+
+
 I am Rammiya Narayanasamy
 I am Johnvesly 
 I am Lathusan T
 i am manoj
-<<<<<<< HEAD
+
 I am Rubika
-=======
-=======
+
 i am sajanthan
 I am Lathusan
->>>>>>> 45f762033419abcd429f9a323a36c1af737234f6
->>>>>>> 1ffffd618928bbdbca496f3fe8d7a20efc1e4153
 
->>>>>>> 2e141fb8039482163195b7def52d57208113a73e
-<<<<<<< HEAD
->>>>>>> 45f762033419abcd429f9a323a36c1af737234f6
-=======
 I am Sarath
-<<<<<<< HEAD
->>>>>>> f0aae471dd80f8a357067fbdef067b58f752fa85
-=======
->>>>>>> c8aed207614f46172c4df0e5fe7be87d9b52adb2
->>>>>>> 8d1cbd0b0d918a8d7d7fc29439b568a2ed231d59
+
+I am Danush
+I am Rubika
+
