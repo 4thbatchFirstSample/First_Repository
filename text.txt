@@ -1,37 +1,16 @@
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
 I am Rammiya
 I am Charles
 I am Arshad
 I am Rammiya Narayanasamy
 I am Athavan
 I am Athavan
-=======
-i am Rammiya
-I am Johnvesly
-i am Manoj
->>>>>>> 2e141fb8039482163195b7def52d57208113a73e
 I am Arshad
+I am Rammiya Narayanasamy
 I am Athavan
 I am Thanush
 I am Arshad
-<<<<<<< HEAD
 I am Rammiya Narayanasamy
 I am Johnvesly 
 I am Lathusan T
-<<<<<<< HEAD
 i am manoj
 I am Rubika
-=======
-I am Vinothini
-i am manoj
-=======
-i am sajanthan
-I am Lathusan
->>>>>>> 45f762033419abcd429f9a323a36c1af737234f6
-
->>>>>>> 2e141fb8039482163195b7def52d57208113a73e
-I am Sarath
->>>>>>> 1ffffd618928bbdbca496f3fe8d7a20efc1e4153
