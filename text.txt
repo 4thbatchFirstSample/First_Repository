@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
 I am Rammiya
 I am Charles
 I am Arshad
@@ -23,5 +26,7 @@ i am manoj
 =======
 i am sajanthan
 I am Lathusan
+>>>>>>> 45f762033419abcd429f9a323a36c1af737234f6
 
 >>>>>>> 2e141fb8039482163195b7def52d57208113a73e
+I am Sarath
