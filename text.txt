@@ -33,4 +33,4 @@ I am Lathusan
 >>>>>>> 2e141fb8039482163195b7def52d57208113a73e
 I am Sarath
 >>>>>>> 1ffffd618928bbdbca496f3fe8d7a20efc1e4153
-Iam Danush
+I am danush
